@@ -30,6 +30,7 @@
     GM_registerMenuCommand('Set variable ' + varName, function () {
       var val = window.prompt('Value for ' + varName, currentVal);
       GM_setValue(varName, val);
+      window.location.reload();
     });
 
     return parseFunc(currentVal);
