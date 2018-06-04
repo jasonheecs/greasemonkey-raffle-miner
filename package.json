@@ -5,7 +5,8 @@
   "main": "raffleminer.user.js",
   "scripts": {
     "lint": "eslint *.js",
-    "precommit": "npm run lint"
+    "precommit": "npm run lint",
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
