@@ -1,0 +1,18 @@
+{
+  "extends": "standard",
+  "rules": {
+    "no-extra-semi": ["off", "always"],
+    "semi": ["error", "always"],
+    "require-jsdoc": ["warn"],
+    "valid-typeof": ["off"],
+    "no-unused-expressions": ["off"]
+  },
+  "globals": {
+    "GM_getValue": true,
+    "GM_registerMenuCommand": true,
+    "GM_setValue": true
+  },
+  "env": {
+    "mocha": true 
+  }
+}
