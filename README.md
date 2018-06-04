@@ -5,7 +5,7 @@
 A Tampermonkey user script that automatically enables cryptocurrency mining on [Raffleminer.com](https://www.raffleminer.com/) without needing user input when you visit the site.
 
 ## Prerequsities
-You'll need to install the Tampermonkey browser extensions:
+You'll need to install the Tampermonkey browser extension:
 
 - [For Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [For Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
