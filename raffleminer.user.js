@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Automatically throttle raffleminer.com's CPU mining speed
 // @author       Jason Hee
+// @license      MIT - https://opensource.org/licenses/MIT
 // @include https://www.raffleminer.com/
 // @grant   GM_getValue
 // @grant   GM_setValue
