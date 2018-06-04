@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Raffleminer.com throttle script
 // @namespace    jasonheecs
-// @version      1.0
+// @version      1.1
 // @description  Automatically throttle raffleminer.com's CPU mining speed
 // @author       Jason Hee
 // @license      MIT
