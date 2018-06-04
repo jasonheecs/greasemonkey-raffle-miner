@@ -1,5 +1,5 @@
 {
-  "name": "greasemonkey-raffle-miner",
+  "name": "tampermonkey-raffle-miner",
   "version": "1.0.0",
   "description": "",
   "main": "raffleminer.user.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonheecs/greasemonkey-raffle-miner.git"
+    "url": "git+https://github.com/jasonheecs/tampermonkey-raffle-miner.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasonheecs/greasemonkey-raffle-miner/issues"
+    "url": "https://github.com/jasonheecs/tampermonkey-raffle-miner/issues"
   },
-  "homepage": "https://github.com/jasonheecs/greasemonkey-raffle-miner#readme",
+  "homepage": "https://github.com/jasonheecs/tampermonkey-raffle-miner#readme",
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-standard": "^11.0.0",

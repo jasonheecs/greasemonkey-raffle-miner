@@ -15,7 +15,7 @@
   'use strict';
 
   /**
-     * Set a greasemonkey script's variable to be user definable
+     * Set a tampermonkey script's variable to be user definable
      * @param  {string} varName
      * @param  {*} defaultVal
      * @param  {Function} parseFunc

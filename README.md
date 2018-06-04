@@ -1,6 +1,6 @@
 # Raffleminer.com Tampermonkey script
 
-[![Build Status](https://travis-ci.org/jasonheecs/greasemonkey-raffle-miner.svg?branch=master)](https://travis-ci.org/jasonheecs/greasemonkey-raffle-miner)
+[![Build Status](https://travis-ci.org/jasonheecs/tampermonkey-raffle-miner.svg?branch=master)](https://travis-ci.org/jasonheecs/tampermonkey-raffle-miner)
 
 A Tampermonkey user script that automatically enables cryptocurrency mining on [Raffleminer.com](https://www.raffleminer.com/) without needing user input when you visit the site.
 
