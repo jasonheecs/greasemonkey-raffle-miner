@@ -57,10 +57,14 @@
     return document.getElementById(selector) || document.querySelector(selector);
   };
 
-  var nanoWalletAddress = makeUserModifiable('nanoWalletAddress', 'xrb_1u9b3oup4sc16tk3gzc5aprnrxh6cnnugmwy7ofgmpoeckusxqz39q4duzgz');
+  var nanoWalletAddress = makeUserModifiable('nanoWalletAddress', '');
   var maxMiningSpeed = makeUserModifiable('maxMiningSpeed', '10', parseInt);
   var toggleMiningEl = $('toggle-mining');
   var decreaseMiningSpeedEl = $('throttle-dec');
+
+  if (!nanoWalletAddress.length) {
+    return;
+  }
 
   $('nano_account').value = nanoWalletAddress;
 
